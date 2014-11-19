@@ -1,0 +1,11 @@
+# Site settings
+title: Open Liturgy Project
+email: adam.michael.wood@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  The Open Liturgy Project seeks to bring Open Source methodology and ethos to the creation and sharing of liturgical resources.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://openliturgy.github.io" # the base hostname & protocol for your site
+github_username:  OpenLiturgy
+
+# Build settings
+markdown: kramdown
